@@ -1,0 +1,38 @@
+baseURL: 'https://example.org/'
+languageCode: 'en-us'
+title: 'Running @philsch'
+theme: "PaperMod"
+
+enableEmoji: true
+
+menu:
+  main:
+    - name: Running
+      weight: 10
+      url: running/
+    - name: Cardio & Recovery
+      weight: 20
+      url: cardio-recovery/
+    - name: Tags
+      weight: 30
+      url: tags/
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  mainSections:
+    - running
+    - cardio-recovery
+  homeInfoParams:
+    Title: "Hi there 🏃	"
+    Content: >
+      I've been running for a while now, but only realized recently that the world's *most accessible* sport
+      isn't as easy as it seems. Developing a good running and workout routine requires a lot of knowledge and, ideally, 
+      prevents injuries before they occur. This page will serve as my *living notebook*: My second brain for keeping track
+      of good habits, taking notes whenever I read something interesting and probably also some ugly sketches 🙈. 
+      All posts will have a *Suggest Changes* link, so I invite you to contribute with your experience and knowledge 
+      if you like.<br/><br/>
+      Happy running!
