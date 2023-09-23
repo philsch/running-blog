@@ -1,6 +1,6 @@
 baseURL: 'https://example.org/'
 languageCode: 'en-us'
-title: 'Running @philsch'
+title: "A runner's notebook"
 theme: "PaperMod"
 
 enableEmoji: true
@@ -32,7 +32,19 @@ params:
       I've been running for a while now, but only realized recently that the world's *most accessible* sport
       isn't as easy as it seems. Developing a good running and workout routine requires a lot of knowledge and, ideally, 
       prevents injuries before they occur. This page will serve as my *living notebook*: My second brain for keeping track
-      of good habits, taking notes whenever I read something interesting and probably also some ugly sketches 🙈. 
+      of good habits and taking notes whenever I read something interesting ...<br/><br/>
       All posts will have a *Suggest Changes* link, so I invite you to contribute with your experience and knowledge 
       if you like.<br/><br/>
       Happy running!
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/philsch/running-blog"
+    - name: strava
+      url: "https://strava.com/athletes/62482011"
+
+  editPost:
+      URL: "https://github.com/philsch/running-blog/blob/main/content"
+      Text: "Suggest Changes"
+      appendFilePath: true
+      appendQueryParam: "plain=1"

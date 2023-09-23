@@ -9,11 +9,6 @@ ShowBreadCrumbs: true
 cover:
     image: "/images/cover/RzLQnuP4bl4.jpg"
     caption: "Photo by [Austin Neill](https://unsplash.com/@arstyy) on [Unsplash](https://unsplash.com/photos/RzLQnuP4bl4)"
-editPost:
-    URL: "https://github.com/philsch/running-blog/blob/main/content"
-    Text: "Suggest Changes"
-    appendFilePath: true
-    appendQueryParam: "plain=1"
 ---
 
 This is a quicker post-run recovery routine I do when I don't have that much time, but stretching those tight muscles

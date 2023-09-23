@@ -9,11 +9,6 @@ ShowBreadCrumbs: true
 cover:
     image: "/images/cover/WX7FSaiYxK8.jpg"
     caption: "Photo by [Alora Griffiths](https://unsplash.com/@aloragriffiths) on [Unsplash](https://unsplash.com/photos/WX7FSaiYxK8)"
-editPost:
-    URL: "https://github.com/philsch/running-blog/blob/main/content"
-    Text: "Suggest Changes"
-    appendFilePath: true
-    appendQueryParam: "plain=1"
 ---
 
 This is my current post-run recovery routine after longer runs or a more intense week of running. Especially the lower body 
