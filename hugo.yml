@@ -23,6 +23,7 @@ markup:
       unsafe: true
 
 params:
+  env: production
   mainSections:
     - running
     - cardio-recovery
@@ -36,6 +37,9 @@ params:
       All posts will have a *Suggest Changes* link, so I invite you to contribute with your experience and knowledge 
       if you like.<br/><br/>
       Happy running!
+
+  assets:
+    disableScrollBarStyle: true
 
   socialIcons:
     - name: github
